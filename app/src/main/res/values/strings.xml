@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="open_dialog">Open dialog</string>
+</resources>
